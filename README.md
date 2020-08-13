@@ -1,8 +1,3 @@
-
-<!--Allow space for the GitHub Classroom Repl.it badge)-->
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod-redirect-0.herokuapp.com/)
-
 # Capitalisation de noms de pays
 
 Avant de commencer. Consulter les instructions à suivre dans [instructions.md](instructions.md)
