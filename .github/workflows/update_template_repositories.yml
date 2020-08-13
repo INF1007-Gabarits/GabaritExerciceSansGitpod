@@ -18,7 +18,7 @@ jobs:
       - name: Update derived template repos
         run: |
           source settings/variables.txt
-          
+
           python3 -m pip install -q setuptools
           python3 -m pip install -q git+"$classroom_tools_url"
 
