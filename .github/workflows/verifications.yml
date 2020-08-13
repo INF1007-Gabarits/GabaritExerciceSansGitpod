@@ -73,7 +73,7 @@ jobs:
         run: |
           if [[ ! -f "settings/variables.txt" ]]
           then
-            printf "File not found: $test_file\n"
+            printf "File not found: settings/variables.txt\n"
             exit 1
           fi
       - uses: actions/checkout@v2
