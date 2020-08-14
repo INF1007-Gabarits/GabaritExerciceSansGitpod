@@ -64,4 +64,6 @@ jobs:
             show_grades
             push_modifications
             patch_db
+          else
+            exit 1
           fi
